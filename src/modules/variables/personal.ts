@@ -1,0 +1,15 @@
+export const token = '137365403:AAET0ovr5C4X9gTLJzlHF7CpKEgKxcAbVzI';
+export const tokenTest = '5960184469:AAFD7Wypn7kLCO-AEaqo2UkbKsnPacgUmQY';
+export const city = 'Irkutsk,RU';
+export const keyWeather = 'be87acba5a29f3aa93bd105c748ae943';
+// export const idAl = 87307445;
+export const idAl = 5717951302;
+export const idMatvey = 106633204;
+export const idInna = 136876367;
+export const idList = [87307445, idMatvey, idInna, idAl];
+export const latitude = 52.2;
+export const longitude = 104.4;
+export const height = 400;
+export const myCity = 'Irkutsk';
+export const sensorWell = '28-0516c0fc9fff';
+export const sensorExit = '28-0114504f0cff';

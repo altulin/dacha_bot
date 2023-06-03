@@ -1,3 +1,7 @@
-const message = 'Hello node!';
+import { bot } from './modules/bot.js';
+import { idAl } from './modules/variables/personal.js';
+bot.on('text', (e) => {
+  const { text } = e;
 
-console.log(message);
+  bot.sendMessage(idAl, text ? text : '');
+});
